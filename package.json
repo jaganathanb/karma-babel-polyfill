@@ -1,0 +1,22 @@
+{
+  "name": "karma-babel-polyfill",
+  "version": "0.0.1",
+
+  "author": "Jaganathan B <jaganathan.eswaran@gmail.com>",
+  "description": "babel-polyfill plugin for karma",
+  "keywords": ["karma", "karma-plugin", "babel", "babel-polyfill"],
+  "license": "MIT",
+
+  "peerDependencies": {
+    "babel-polyfill": "*"
+  },
+
+  "homepage": "https://github.com/jaganathanb/karma-babel-polyfill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaganathanb/karma-babel-polyfill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaganathanb/karma-babel-polyfill/issues"
+  }
+}
