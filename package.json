@@ -1,6 +1,6 @@
 {
   "name": "karma-babel-polyfill",
-  "version": "0.0.1",
+  "version": "0.0.2",
 
   "author": "Jaganathan B <jaganathan.eswaran@gmail.com>",
   "description": "babel-polyfill plugin for karma",
@@ -10,11 +10,11 @@
   "dependencies": {
     "babel-polyfill": "*"
   },
-  
+
   "peerDependencies": {
     "karma": "*"
   },
-  
+
   "main": "./index.js",
 
   "homepage": "https://github.com/jaganathanb/karma-babel-polyfill",
