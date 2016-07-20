@@ -5,7 +5,7 @@ var pattern = function(file) {
 };
 
 var framework = function(files) {
-	files.unshift(pattern(path.resolve(path.dirname(require.resolve("babel-polyfill")), "babel-polyfill.js")));
+	files.unshift(pattern(path.resolve(path.dirname(require.resolve("babel-polyfill")), "index.js")));
 };
 
 framework.$inject = ["config.files"];
