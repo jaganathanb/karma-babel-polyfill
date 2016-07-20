@@ -1,6 +1,6 @@
 {
   "name": "karma-babel-polyfill",
-  "version": "0.0.3",
+  "version": "0.0.4",
 
   "author": "Jaganathan B <jaganathan.eswaran@gmail.com>",
   "description": "babel-polyfill plugin for karma",
