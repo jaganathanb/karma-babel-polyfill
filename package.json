@@ -7,9 +7,15 @@
   "keywords": ["karma", "karma-plugin", "babel", "babel-polyfill"],
   "license": "MIT",
 
-  "peerDependencies": {
+  "dependencies": {
     "babel-polyfill": "*"
   },
+  
+  "peerDependencies": {
+    "karma": "*"
+  },
+  
+  "main": "./index.js",
 
   "homepage": "https://github.com/jaganathanb/karma-babel-polyfill",
   "repository": {
